@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins',sans-serif;
+}
+nav{
+  text-decoration: none;
+  color: #002e5b;
+  font-size: 18px;
+  padding: 10px 35px;
+  display: inline-block;
+  transition: all 0.5s ease 0s;
+  margin-right: 1.5rem;
+}
+nav a:hover{
+    color: aqua;
+    transition: 0.5s;
+}
+header {
+  justify-content: space-between;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  background-color: #c4c4c4;
+  height: 80px;
+  padding-left: 2%;
+  text-decoration: none;
+  width: 100%;
+  z-index: 1;
+}
+img{
+    padding: 0;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+span{
+    padding: 0;
+    font-size: 2rem;
+    color: aqua;
+}
+span:hover{
+   color: #002e5b;
+}

@@ -1,0 +1,19 @@
+BODY{
+    font-family: sans-serif;
+}
+header{
+    background: white;
+    width:100%
+}
+header img{
+    width:100px;
+    padding: 20px;
+}
+.tit{
+    float:center;
+    padding: 20px;
+}
+.link{
+    float:right;
+    padding:20px;
+}
